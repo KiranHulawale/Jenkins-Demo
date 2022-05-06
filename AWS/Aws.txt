@@ -1,0 +1,7 @@
+search youtube in the format: reinvent+[name of service] ex. reinvent dynamodb (reinvent is our yearly tradeshow)
+
+
+
+https://aws.amazon.com/premiumsupport/knowledge-center/launch-instance-custom-ami/
+
+https://aws.amazon.com/ec2/instance-types/
